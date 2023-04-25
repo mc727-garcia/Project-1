@@ -10,7 +10,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Times New Roman", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
 }
 
@@ -125,7 +125,7 @@ ul.main-menu li a:hover {
   color:#FFFFFF;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#009dc4;
   border-bottom-color:#EF6D3D;
 }
 
