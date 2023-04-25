@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#7CFC00;
 }
 a:focus {
   outline: thin dotted;
@@ -93,7 +93,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
+  background:url(snowbackground.jpg) center center no-repeat fixed;
   background-size:cover;
 }
 body {
